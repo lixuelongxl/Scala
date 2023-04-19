@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 MAINTAINER xjzhu@cnic.cn
 
 ENV HOSTNAME master
